@@ -2,7 +2,7 @@
 	"name": "Themeforest Previews",
 	"version": "1.0.0",
 	"description": "Add previews for templates on themeforest.net",
-	"homepage_url": "https://github.com/arshad/themeforest-previews",
+	"homepage_url": "https://github.com/arshad/themeforest-previews-chrome",
 	"manifest_version": 2,
 	"minimum_chrome_version": "48",
 	"permissions": [
